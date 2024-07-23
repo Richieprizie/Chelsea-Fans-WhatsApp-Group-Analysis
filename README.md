@@ -70,4 +70,5 @@ The purpose of this analysis is to gain insights on the most active members, pea
 The analysis provides  insights into the group's dynamics and engagement patterns. This information can be used to optimize communication strategies, schedule important announcements during peak times, and recognize the most active members.
 
 ## Dashboard
-![WhatsApp Group Chat Analysis Dashboard](attachment:image.png)
+
+<img width="667" alt="Annotation 2024-07-20 102026" src="https://github.com/user-attachments/assets/b3d7172a-44ca-4723-8790-333dbd5ed17c">
